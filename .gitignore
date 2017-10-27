@@ -3,3 +3,8 @@ venv
 *.*sw?
 *.html
 
+aa_fake.fasta
+good_wines.xlsx
+venv3.6/
+venv3/
+y1_and_y2.png
